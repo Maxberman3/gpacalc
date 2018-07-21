@@ -1,0 +1,14 @@
+GPA Calculator according to assignment. Laid out so course entry is in the top left panel, and course display
+is in the top right. The bottom region contains the calculate gpa buttons as well as target gpa entry.
+Couple of things to note:
+
+I let the user have the functionality to add future classes with an "assumed" grade. Although they don't
+factor into the current gpa calculations they do factor into the required gpa.
+
+Although not explicitly stated on the labels, the grade and name are optional and the credits are not.
+if the user enters a blank space in the credits a window will pop up to prompt them to enter input for credits.
+Additionally, there are pop ups for incorrect inputs for any of the fields (for example putting a double or
+string in the grade field.)
+
+There are one, maybe two artifact methods in some of my classes which didn't wind up getting used after I made
+some changes. I 
